@@ -1,6 +1,6 @@
 cask "lid-awake" do
-  version "0.1.7"
-  sha256 "50088449ef6768c4c0aab7960b3376903db5374394052689a83ddf95b1bebbfd"
+  version "0.1.8"
+  sha256 "93692a1c42e45614544dc0cdd9188832d6f0a4e0053a03ff7ebba723485fab9b"
 
   url "https://github.com/thuongtin/lid-awake/releases/download/v#{version}/LidAwake-#{version}-macos.dmg"
   name "Lid Awake"
